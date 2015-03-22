@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Below are the two functions "makeCacheMatrix" and "cacheSolve" 
+## They provide caching for the inverse of a matrix.
+##So that the inverse of a matrix is not repeatedly Computed.
+
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
